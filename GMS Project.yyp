@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "3335f7fe-7bcd-4a2f-88db-15a6c39b6360",
+            "Value": {
+                "id": "891676e4-1584-4a32-985e-8557982a59d6",
+                "resourcePath": "sprites\\nvmind\\nvmind.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "39e2bfa9-0dfd-484b-8ced-c0c6ab42f58b",
             "Value": {
                 "id": "67822427-c87a-470e-899c-e88a8a612fec",
