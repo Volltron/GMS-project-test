@@ -191,14 +191,6 @@
             }
         },
         {
-            "Key": "79714065-cccb-4e38-a859-c6e975d3d48f",
-            "Value": {
-                "id": "c8c60558-794d-4ea6-85b9-e22943152e3f",
-                "resourcePath": "sprites\\TF\\TF.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "7e093a2a-e51c-4a1e-9a53-f9080d38730b",
             "Value": {
                 "id": "2bdbfcf7-555d-4af3-8572-a376d8ad07fe",
