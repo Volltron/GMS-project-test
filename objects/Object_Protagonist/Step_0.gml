@@ -15,7 +15,7 @@ if(hInput != 0 || vInput !=0){
 
 
 	//Set sprite
-	switch(dir){
+	/*switch(dir){
 		case 0: sprite_index = Protagonist_right; break;
 		case 45: sprite_index = Protagonist_right; break;
 		case 90: sprite_index = Protagonist_back; break;
@@ -24,7 +24,7 @@ if(hInput != 0 || vInput !=0){
 		case 225: sprite_index = Protagonist_left; break;
 		case 270: sprite_index = Protagonist_front; break;
 		case 315: sprite_index = Protagonist_right; break;
-	}
+	}*/
 }else{
 	image_index = 0;
 }
